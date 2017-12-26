@@ -1,11 +1,11 @@
 # HadoopSample
 
-Code right from Cloudera ![website](https://www.cloudera.com/documentation/other/tutorial/CDH5/topics/ht_wordcount1.html)
+Code right from Cloudera [website](https://www.cloudera.com/documentation/other/tutorial/CDH5/topics/ht_wordcount1.html)
 IDE: Eclipse
 
 Solved Error:
-1. ![log4j:WARN No appenders could be found for logger](https://www.maolintu.com/2017/12/25/hadoop-error-log4jwarn-no-appenders-could-be-found-for-logger/)
-2. ![java.lang.ClassNotFoundException:org.codehaus.jackson.map.JsonMappingException](https://www.maolintu.com/2017/12/25/hadoop-error-java-lang-classnotfoundexceptionorg-codehaus-jackson-map-jsonmappingexception/)
+1. [log4j:WARN No appenders could be found for logger](https://www.maolintu.com/2017/12/25/hadoop-error-log4jwarn-no-appenders-could-be-found-for-logger/)
+2. [java.lang.ClassNotFoundException:org.codehaus.jackson.map.JsonMappingException](https://www.maolintu.com/2017/12/25/hadoop-error-java-lang-classnotfoundexceptionorg-codehaus-jackson-map-jsonmappingexception/)
 
 1. WordCount
 
